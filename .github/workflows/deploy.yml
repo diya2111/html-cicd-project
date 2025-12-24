@@ -22,4 +22,4 @@ jobs:
         port: 22
         source: "index.html"
         target: "/var/www/html/"
-
+        debug: true
